@@ -1,0 +1,4 @@
+node_modules/
+Fca_Database/
+*.log
+.DS_Store
