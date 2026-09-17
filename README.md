@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:7000FF,100:00D9FF&height=260&section=header&text=SHADOWX-FCA&fontSize=74&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Not%20Coded%20to%20Impress%20Coded%20to%20Express&descSize=20&descAlignY=62&descColor=FFD700" width="100%"/>
 
 ```console
-SHADOWX-FCA v10.7.0 ── Facebook Messenger API Engine for Node.js
+SHADOWX-FCA v10.8.0 ── Facebook Messenger API Engine for Node.js
 🛠️  Forked & rebranded by MUEID MURSALIN RIFAT
 🟢  status: online   ⚡ engine: Signal + Noise WebSocket   🔒 E2EE: active
 ```

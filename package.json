@@ -1,6 +1,6 @@
 {
   "name": "shadowx-fca",
-  "version": "10.7.0",
+  "version": "10.8.0",
   "description": "SHADOWX-FCA — Facebook Messenger API for Node.js — Fast, Secure, and Feature-Rich. Forked by Mueid Mursalin Rifat.",
   "main": "index.js",
   "types": "index.d.ts",
