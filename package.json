@@ -80,10 +80,12 @@
     "https-proxy-agent": "^4.0.0",
     "mime": "^3.0.0",
     "mqtt": "^5.10.1",
+    "number-allocator": "^1.0.14",
     "protobufjs": "^8.4.0",
     "sequelize": "^6.37.8",
     "sqlite3": "^5.1.7",
     "totp-generator": "^1.0.0",
+    "websocket-stream": "^5.5.2",
     "ws": "^8.18.0"
   },
   "devDependencies": {
